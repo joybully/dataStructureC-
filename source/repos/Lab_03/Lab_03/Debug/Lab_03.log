@@ -1,0 +1,3 @@
+﻿  ItemType.cpp
+C:\Users\Baptist\source\repos\Lab_03\Lab_03\ItemType.cpp(94): warning C4715: 'BinarySearch': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Lab_03.vcxproj -> C:\Users\Baptist\source\repos\Lab_03\Debug\Lab_03_01.exe

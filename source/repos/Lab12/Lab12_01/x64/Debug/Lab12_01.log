@@ -1,0 +1,4 @@
+﻿  InsertionSort.cpp
+C:\Users\Baptist\source\repos\Lab12\Lab12_01\InsertionSort.cpp(30,47): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Baptist\source\repos\Lab12\Lab12_01\InsertionSort.cpp(31,47): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Lab12_01.vcxproj -> C:\Users\Baptist\source\repos\Lab12\x64\Debug\Lab12_01.exe

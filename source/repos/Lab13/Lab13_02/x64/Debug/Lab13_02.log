@@ -1,0 +1,7 @@
+﻿  MergeSort.cpp
+C:\Users\Baptist\source\repos\Lab13\Lab13_02\MergeSort.cpp(50,47): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Baptist\source\repos\Lab13\Lab13_02\MergeSort.cpp(51,47): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Student.cpp
+  Swap.cpp
+  코드를 생성하고 있습니다...
+  Lab13_02.vcxproj -> C:\Users\Baptist\source\repos\Lab13\x64\Debug\Lab13_02.exe

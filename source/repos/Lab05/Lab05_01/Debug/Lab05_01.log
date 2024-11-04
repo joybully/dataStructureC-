@@ -1,0 +1,4 @@
+﻿  QueDr.cpp
+C:\Users\Baptist\source\repos\Lab05\Lab05_01\QueDr.cpp(96,12): warning C4101: 'item' :참조되지 않은 지역 변수입니다.
+C:\Users\Baptist\source\repos\Lab05\Lab05_01\QueDr.cpp(98,7): warning C4101: 'numCommands' :참조되지 않은 지역 변수입니다.
+  Lab05_01.vcxproj -> C:\Users\Baptist\source\repos\Lab05\Debug\Lab05_01.exe

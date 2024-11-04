@@ -1,0 +1,10 @@
+﻿  Hashing.cpp
+C:\Users\Baptist\source\repos\Lab13\Lab13_05\Hashing.cpp(31,23): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Baptist\source\repos\Lab13\Lab13_05\Hashing.cpp(89,47): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Baptist\source\repos\Lab13\Lab13_05\Hashing.cpp(90,47): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Baptist\source\repos\Lab13\Lab13_05\Hashing.cpp(92,48): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Baptist\source\repos\Lab13\Lab13_05\Hashing.cpp(19,1): warning C4154: 배열 식을 삭제했습니다. 포인터로 변환이 제공됩니다.
+C:\Users\Baptist\source\repos\Lab13\Lab13_05\Hashing.cpp(18): message : 클래스 템플릿 멤버 함수 'HashTable<Student>::~HashTable(void)'을(를) 컴파일하는 중입니다.
+C:\Users\Baptist\source\repos\Lab13\Lab13_05\Hashing.cpp(93): message : 컴파일되는 함수 템플릿 인스턴스화 'HashTable<Student>::~HashTable(void)'에 대한 참조를 확인하세요.
+C:\Users\Baptist\source\repos\Lab13\Lab13_05\Hashing.cpp(93): message : 컴파일되는 클래스 템플릿 인스턴스화 'HashTable<Student>'에 대한 참조를 확인하세요.
+  Lab13_05.vcxproj -> C:\Users\Baptist\source\repos\Lab13\x64\Debug\Lab13_05.exe

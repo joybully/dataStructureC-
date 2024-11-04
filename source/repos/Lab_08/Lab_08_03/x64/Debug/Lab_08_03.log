@@ -1,0 +1,4 @@
+﻿  Ex14.cpp
+C:\Users\Baptist\source\repos\Lab_08\Lab_08_03\Ex14.cpp(21,41): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Baptist\source\repos\Lab_08\Lab_08_03\Ex14.cpp(23,39): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Lab_08_03.vcxproj -> C:\Users\Baptist\source\repos\Lab_08\x64\Debug\Lab_08_03.exe
